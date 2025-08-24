@@ -13,9 +13,15 @@ BB.Stars="10";
 Xros.radius="8723647433";
 
 
+
 Planet1 ZORO=new Planet1();
 ZORO.color="Pink";
 ZORO.radius="1287376265253623";
+
+Planet2 Dros = new Planet2();
+Dros.gravity="3874733";
+Dros.size="923748";
+
 
     }
 
