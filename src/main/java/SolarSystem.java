@@ -12,6 +12,10 @@ BB.Stars="10";
         Xros. Color="green";
 Xros.radius="8723647433";
 
+Planet2 Dros = new Planet2();
+Dros.gravity="3874733";
+Dros.size="923748";
+
     }
 
 }
