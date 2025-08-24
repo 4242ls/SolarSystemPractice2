@@ -12,6 +12,11 @@ BB.Stars="10";
         Xros. Color="green";
 Xros.radius="8723647433";
 
+
+Planet1 ZORO=new Planet1();
+ZORO.color="Pink";
+ZORO.radius="1287376265253623";
+
     }
 
 }
